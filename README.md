@@ -1,4 +1,4 @@
-# Tweeter-Sentiment-Analysis-using NLP
+# Twitter-Sentiment-Analysis-using NLP
 **Objective:** This project aims to develop a **light-weight, non-deployed** sentiment analysis system for Twitter data using Natural Language Processing (NLP) techniques. It will **avoid complex models** like LSTMs and transformers, focusing on efficient and interpretable methods.
 
 **Motivation:**
